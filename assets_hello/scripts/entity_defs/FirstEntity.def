@@ -1,0 +1,15 @@
+<root>
+	<Properties>
+		<name>
+			<Type> UNICODE </Type>
+			<Flags> BASE</Flags>
+		</name>
+	</Properties>
+
+	<BaseMethods>
+		<hello>
+			<Arg> UNICODE</Arg>
+		</hello>
+	</BaseMethods>
+
+</root>
