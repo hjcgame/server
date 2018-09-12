@@ -1,0 +1,52 @@
+<root>
+    <item0>KBEngine.entities[0]</item0>
+    <item1>KBEngine.entities</item1>
+    <item2>KBEngine.entities.values()</item2>
+    <item3>KBEngine.entities.values()[2].name</item3>
+    <item4>KBEngine.entities.values()[2].feastList.values()</item4>
+    <item5>KBEngine.entities.values()[5].feastList.values()</item5>
+    <item6>for info in KBEngine.entities.values()[5].feastList.values():&#x0A; print(info[&apos;ownerid&apos;])</item6>
+    <item7>for info in KBEngine.entities.values()[5].feastList.values():&#x0A; print(info[&apos;ownerid&apos;], info[&apos;name&apos;])</item7>
+    <item8>for info in KBEngine.entities.values()[5].feastList.values():&#x0A; if info[&apos;name&apos;] == &quot;好哥哥&quot;:&#x0A; print(&quot;+++++&quot;)</item8>
+    <item9>for info in KBEngine.entities.values()[5].feastList.values():&#x0A; if info[&apos;name&apos;] == &quot;好哥哥&quot;:&#x0A; print(&quot;+++++&quot;)</item9>
+    <item10>for info in KBEngine.entities.values()[5].feastList.values():&#x0A;&#x0A; if info[&apos;name&apos;] == &quot;好哥哥&quot;:&#x0A;&#x0A; print(&quot;+++++&quot;)&#x0A; KBEngine.entities.values()[5].feastEnd(info)&#x0A; break&#x0A;</item10>
+    <item11>for info in KBEngine.entities.values()[5].feastList.values():&#x0A;&#x0A; if info[&apos;name&apos;] == &quot;好哥哥&quot;:&#x0A;&#x0A; print(&quot;+++++&quot;)&#x0A; KBEngine.entities.values()[5].feastEnd(info)&#x0A; break&#x0A;</item11>
+    <item12>for info in KBEngine.entities.values()[5].feastList.values():&#x0A; print(info[&apos;ownerid&apos;])</item12>
+    <item13>for info in KBEngine.entities.values()[5].feastList.values():&#x0A; print(info[&apos;ownerid&apos;], info[&apos;name&apos;])</item13>
+    <item14>for info in KBEngine.entities.values()[5].feastList.values():&#x0A;&#x0A; if info[&apos;name&apos;] == &quot;好哥哥&quot;:&#x0A;&#x0A; print(&quot;+++++&quot;)&#x0A; KBEngine.entities.values()[5].feastEnd(info)&#x0A; break&#x0A;</item14>
+    <item15>del KBEngine.entities.values()[5].feastList[6594951918286733312]</item15>
+    <item16>for info in KBEngine.entities.values():&#x0A; if info[&apos;name&apos;] == &quot;斌仔&quot;:&#x0A; print(&quot;============&quot;)</item16>
+    <item17>for info in KBEngine.entities.values():&#x0A; &#x0A; name = info.get(&quot;name&quot;, &quot;&quot;)&#x0A; if name == &quot;斌仔&quot;:&#x0A; print(&quot;=========&quot;)</item17>
+    <item18>KBEngine.entities.values():&#x0A;</item18>
+    <item19>KBEngine.entities.values()</item19>
+    <item20>KBEngine.entities.values()</item20>
+    <item21>for info in KBEngine.entities.values():&#x0A; print(type(info))</item21>
+    <item22>for info in KBEngine.entities.values():&#x0A;&#x0A; if type(info)== &lt;class &apos;Player.Player&apos;&gt;:&#x0A; print(&quot;=====&quot;)</item22>
+    <item23>for info in KBEngine.entities.values():&#x0A;&#x0A; if type(info) == &lt;class &apos;Player.Player&apos;&gt;:&#x0A; print(&quot;=====&quot;)</item23>
+    <item24>for info in KBEngine.entities.values():&#x0A;&#x0A; if type(info) == &apos;Player.Player&apos;:&#x0A; print(&quot;=====&quot;)</item24>
+    <item25>for info in KBEngine.entities.values():&#x0A;&#x0A; if type(info) == &apos;Player.Player&apos;:&#x0A; print(&quot;=====&quot;)</item25>
+    <item26>for info in KBEngine.entities.values():&#x0A;&#x0A;&#x0A; tyr:&#x0A; if info[&apos;name&apos;] == &quot;斌仔&quot;:&#x0A; print(&quot;==========&quot;)&#x0A; except:&#x0A; pass &#x0A;</item26>
+    <item27>for info in KBEngine.entities.values():&#x0A;&#x0A;&#x0A; tyr: if info[&apos;name&apos;] == &quot;斌仔&quot;:&#x0A; print(&quot;==========&quot;)&#x0A; except:&#x0A; pass &#x0A;</item27>
+    <item28>for info in KBEngine.entities.values():&#x0A;&#x0A; tyr :&#x0A; if info[&apos;name&apos;] == &quot;斌仔&quot;:&#x0A;&#x0A; print(&quot;==========&quot;)&#x0A;&#x0A; except:&#x0A;&#x0A; pass &#x0A;</item28>
+    <item29>for e in KBEngine.entities.values():&#x0A;&#x09;try:&#x0A;&#x09;&#x09;print(e.dbid)&#x0A;&#x09;except:&#x0A;&#x09;&#x09;pass &#x0A;</item29>
+    <item30>for e in KBEngine.entities.values():&#x0A;&#x0A; try:&#x0A;&#x0A; print(e.dbid)&#x0A;&#x0A; except:&#x0A;&#x0A; pass &#x0A;</item30>
+    <item31>for e in KBEngine.entities.values():&#x0A; try:&#x0A; print(e.name,e.isRobot)&#x0A; except:&#x0A; pass</item31>
+    <item32>for e in KBEngine.entities.values():&#x0A; try:&#x0A; print(e.name,e.isRobot)&#x0A; except:&#x0A; pass</item32>
+    <item33>for e in KBEngine.entities.values():&#x0A; try:&#x0A; if info[&apos;name&apos;] ==&quot;斌仔&quot;: print(&quot;=======&quot;) &#x0A; except:&#x0A; pass</item33>
+    <item34>for e in KBEngine.entities.values():&#x0A; try:&#x0A; if e.name == &quot;斌仔&quot;:&#x0A; print(&quot;=======&quot;)&#x0A; except:&#x0A; pass</item34>
+    <item35>for e in KBEngine.entities.values():&#x0A; try:&#x0A; if e.name == &quot;斌仔&quot;:&#x0A; e.gold=600&#x0A; except:&#x0A; pass</item35>
+    <item36>KBEngine.entities.values():</item36>
+    <item37>KBEngine.entities.values();</item37>
+    <item38>KBEngine.entities.values();</item38>
+    <item39>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item39>
+    <item40>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item40>
+    <item41>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item41>
+    <item42>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item42>
+    <item43>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item43>
+    <item44>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item44>
+    <item45>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item45>
+    <item46>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item46>
+    <item47>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item47>
+    <item48>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   print(&quot;=======&quot;)&#x0A; except:&#x0A;  pass</item48>
+    <item49>for e in KBEngine.entities.values():&#x0A; try:&#x0A;  if e.name==&quot;斌仔&quot;:&#x0A;   e.gold=5000&#x0A; except:&#x0A;  pass</item49>
+</root>
